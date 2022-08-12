@@ -295,6 +295,8 @@ MainSection:NewButton("Dot Lock (pazoware leaked paid script)", "leaked paid scr
         end)
 end)
 
+MainSection:NewButton("Hood Customs Silent aim", "(hood customs silent aim)", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/3Zeeko/example/main/silent%20aim%20hood%20customs"))()
 
 MainSection:NewButton("BOX LOCK", "(made by dxrk)", function()
 --[[
