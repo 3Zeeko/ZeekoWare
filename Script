@@ -709,6 +709,10 @@ MainSection:NewButton("Camlock (Q)", "", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/kkkksdadsadasf/xdd/main/xdd", true))()
 end)
 
+MainSection:NewButton("Hood Customs Silent Aim", "(hood customs silent aim *WORKING*)", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/3Zeeko/example/main/silent%20aim%20hood%20customs", true))()
+end)
+
 MainSection:NewButton("Trash Talk (J)", "", function()
     local words = {
         'ur bad',
