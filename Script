@@ -6,9 +6,6 @@ local Main = Window:NewTab("Main")
 local MainSection = Main:NewSection("Main")
 
 MainSection:NewButton("Dot Lock (pazoware leaked paid script)", "leaked paid script", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/kkkksdadsadasf/loadstring/main/streamable"))()
-end)
-MainSection:NewButton("Dot Lock (pazoware leaked paid script)", "leaked paid script", function()
        local Settings = {
         rewrittenmain = {
             Enabled = true,
