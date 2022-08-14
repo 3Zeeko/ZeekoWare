@@ -807,6 +807,9 @@ ExtrasSection:NewButton("ESP", "lets you see everyone (cant turn off)", function
     loadstring(game:HttpGet("https://raw.githubusercontent.com/kkkksdadsadasf/213213/main/esp"))()
 end)
 
+ExtrasSection:NewButton("FREECAM SHIFT+P", "Free Cam - Toggle Shift + P ", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/3Zeeko/shift-p/main/free-cam"))()
+end)
     -- Player
     local Player = Window:NewTab("Player")
 local PlayerSection = Player:NewSection("Player")
