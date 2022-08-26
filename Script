@@ -813,7 +813,7 @@ while true do
 
     game:GetService("RunService").Stepped:wait()
 end
-
+end)
 
     ExtrasSection:NewButton("FAKE MACRO", "Press Y To fake macro (t for greet animation)", function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Topcoldgaming/loadstring-scritps-/main/Encoded%20FAKE%20macro%20script"))()
